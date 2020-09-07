@@ -1,2 +1,2 @@
-# sogou-input-skin
+# 极简搜狗拼音输入法皮肤
 自己用的搜狗拼音输入法皮肤 for macOS
